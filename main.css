@@ -1,0 +1,21 @@
+body {
+    background-color: skyblue;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.friend {
+    background-color: aquamarine;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+    color: darkblue;
+    padding: 3px;
+}
+
+h1 {
+    color: darkblue;
+    border-bottom: 3px solid darkblue;
+    width: 275px;
+}
